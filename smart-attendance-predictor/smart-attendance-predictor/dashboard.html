@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Dashboard – Smart Attendance Shortage Predictor</title><link rel="stylesheet" href="css/style.css"></head>
+<body>
+<header class="nav"><strong>Attendance Predictor</strong><span><span id="who"></span> <button id="logoutBtn" class="btn small ghost" type="button">Logout</button></span></header>
+<main class="wrap">
+  <section class="cards" id="cards"></section>
+  <section class="panel"><h2>Dataset</h2>
+    <div class="row gap wrapf">
+      <button id="sampleBtn" class="btn small" type="button">Load sample dataset</button>
+      <span>or upload a CSV: <input id="csvFile" type="file" accept=".csv" class="file"></span>
+    </div>
+    <div class="row gap addrow">
+      <select id="stuSel" aria-label="Select student"></select>
+      <button id="useBtn" class="btn small" type="button">Use this student's data</button>
+    </div>
+    <p id="dsInfo" class="muted"></p>
+  </section>
+  <section class="panel">
+    <div class="row"><h2>Your subjects</h2>
+      <div class="row gap">
+        <label class="inline">Target % <input id="target" type="number" min="1" max="100" value="75"></label>
+        <button id="genBtn" class="btn small" type="button">Generate attendance</button>
+      </div></div>
+    <div class="scroll"><table><thead><tr><th>Subject</th><th>Attended</th><th>Conducted</th><th>Current %</th><th>Upcoming</th><th>Risk</th><th>Suggestion</th><th></th></tr></thead><tbody id="rows"></tbody></table></div>
+    <div class="row gap addrow"><input id="newName" type="text" placeholder="New subject name"><button id="addBtn" class="btn small" type="button">Add subject</button></div>
+    <p id="msg" class="msg" role="alert"></p>
+  </section>
+  <section class="panel"><h2>Attendance by subject</h2><div id="chart" class="chart"></div></section>
+  <section class="panel"><h2>What-if predictor</h2>
+    <div class="row gap wrapf">
+      <label>Classes attended<input id="wAtt" type="number" min="0" value="40"></label>
+      <label>Classes conducted<input id="wCond" type="number" min="0" value="60"></label>
+      <label>Upcoming classes<input id="wUp" type="number" min="0" value="25"></label>
+      <button id="wBtn" class="btn" type="button">Predict</button>
+    </div>
+    <div id="wOut" class="wout"></div>
+  </section>
+</main>
+<script src="js/auth.js"></script><script src="js/data.js"></script><script src="js/predictor.js"></script><script src="js/dashboard.js"></script>
+</body></html>

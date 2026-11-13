@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Smart Attendance Shortage Predictor – Login</title><link rel="stylesheet" href="css/style.css"></head>
+<body class="auth-page">
+<main class="auth-card">
+  <h1>Smart Attendance<br>Shortage Predictor</h1>
+  <p class="muted">Know your risk before the semester ends.</p>
+  <div class="tabs"><button id="tabLogin" class="tab active" type="button">Login</button><button id="tabReg" class="tab" type="button">Register</button></div>
+  <div id="loginForm">
+    <label>Email<input id="lEmail" type="email" autocomplete="username"></label>
+    <label>Password<input id="lPass" type="password" autocomplete="current-password"></label>
+    <button id="loginBtn" class="btn" type="button">Login</button>
+    <button id="demoBtn" class="btn ghost" type="button">Use demo account</button>
+  </div>
+  <div id="regForm" hidden>
+    <label>Full name<input id="rName" type="text"></label>
+    <label>Roll number<input id="rRoll" type="text"></label>
+    <label>Email<input id="rEmail" type="email"></label>
+    <label>Password (min 6 characters)<input id="rPass" type="password"></label>
+    <label>Confirm password<input id="rPass2" type="password"></label>
+    <button id="regBtn" class="btn" type="button">Create account</button>
+  </div>
+  <p id="msg" class="msg" role="alert"></p>
+</main>
+<script src="js/auth.js"></script>
+</body></html>

@@ -1,0 +1,181 @@
+roll_no,student_name,subject,attended,conducted,upcoming,attendance_pct,risk
+21CS001,Aarav Kumar,Data Structures,26,30,14,86.7,Medium
+21CS001,Aarav Kumar,DBMS,44,53,13,83.0,Medium
+21CS001,Aarav Kumar,Operating Systems,44,51,28,86.3,Medium
+21CS001,Aarav Kumar,Computer Networks,34,43,11,79.1,Medium
+21CS001,Aarav Kumar,Mathematics,27,30,29,90.0,Medium
+21CS001,Aarav Kumar,Python Programming,27,30,27,90.0,Medium
+21CS002,Diya Sharma,Data Structures,35,50,24,70.0,High
+21CS002,Diya Sharma,DBMS,32,48,18,66.7,High
+21CS002,Diya Sharma,Operating Systems,44,55,15,80.0,Medium
+21CS002,Diya Sharma,Computer Networks,34,52,23,65.4,High
+21CS002,Diya Sharma,Mathematics,29,40,20,72.5,High
+21CS002,Diya Sharma,Python Programming,25,33,12,75.8,High
+21CS003,Mohammed Faizan,Data Structures,34,41,11,82.9,Medium
+21CS003,Mohammed Faizan,DBMS,38,53,24,71.7,High
+21CS003,Mohammed Faizan,Operating Systems,41,47,12,87.2,Medium
+21CS003,Mohammed Faizan,Computer Networks,41,47,19,87.2,Medium
+21CS003,Mohammed Faizan,Mathematics,39,56,21,69.6,High
+21CS003,Mohammed Faizan,Python Programming,33,48,16,68.8,High
+21CS004,Priya Nair,Data Structures,26,31,12,83.9,Medium
+21CS004,Priya Nair,DBMS,46,57,17,80.7,Medium
+21CS004,Priya Nair,Operating Systems,53,57,30,93.0,Medium
+21CS004,Priya Nair,Computer Networks,52,56,21,92.9,Medium
+21CS004,Priya Nair,Mathematics,30,35,18,85.7,Medium
+21CS004,Priya Nair,Python Programming,48,52,30,92.3,Medium
+21CS005,Karthik Raj,Data Structures,36,50,15,72.0,High
+21CS005,Karthik Raj,DBMS,34,44,22,77.3,High
+21CS005,Karthik Raj,Operating Systems,29,38,27,76.3,High
+21CS005,Karthik Raj,Computer Networks,25,37,20,67.6,High
+21CS005,Karthik Raj,Mathematics,38,56,11,67.9,High
+21CS005,Karthik Raj,Python Programming,36,55,20,65.5,High
+21CS006,Sneha Iyer,Data Structures,26,32,20,81.2,Medium
+21CS006,Sneha Iyer,DBMS,34,36,30,94.4,Medium
+21CS006,Sneha Iyer,Operating Systems,31,45,24,68.9,High
+21CS006,Sneha Iyer,Computer Networks,30,34,18,88.2,Medium
+21CS006,Sneha Iyer,Mathematics,27,34,18,79.4,Medium
+21CS006,Sneha Iyer,Python Programming,46,53,28,86.8,Medium
+21CS007,Arjun Menon,Data Structures,37,48,14,77.1,High
+21CS007,Arjun Menon,DBMS,38,46,25,82.6,Medium
+21CS007,Arjun Menon,Operating Systems,26,32,14,81.2,Medium
+21CS007,Arjun Menon,Computer Networks,34,50,15,68.0,High
+21CS007,Arjun Menon,Mathematics,42,55,22,76.4,High
+21CS007,Arjun Menon,Python Programming,31,42,29,73.8,High
+21CS008,Fathima Begum,Data Structures,45,46,10,97.8,Low
+21CS008,Fathima Begum,DBMS,51,51,13,100.0,Low
+21CS008,Fathima Begum,Operating Systems,51,51,30,100.0,Medium
+21CS008,Fathima Begum,Computer Networks,37,40,13,92.5,Medium
+21CS008,Fathima Begum,Mathematics,36,39,18,92.3,Medium
+21CS008,Fathima Begum,Python Programming,46,46,15,100.0,Low
+21CS009,Vikram Singh,Data Structures,28,33,30,84.8,Medium
+21CS009,Vikram Singh,DBMS,36,46,29,78.3,High
+21CS009,Vikram Singh,Operating Systems,32,36,27,88.9,Medium
+21CS009,Vikram Singh,Computer Networks,55,60,26,91.7,Medium
+21CS009,Vikram Singh,Mathematics,52,59,10,88.1,Low
+21CS009,Vikram Singh,Python Programming,27,33,21,81.8,Medium
+21CS010,Ananya Reddy,Data Structures,54,56,17,96.4,Medium
+21CS010,Ananya Reddy,DBMS,53,58,28,91.4,Medium
+21CS010,Ananya Reddy,Operating Systems,60,60,12,100.0,Low
+21CS010,Ananya Reddy,Computer Networks,54,54,27,100.0,Medium
+21CS010,Ananya Reddy,Mathematics,54,54,27,100.0,Medium
+21CS010,Ananya Reddy,Python Programming,35,35,18,100.0,Medium
+21CS011,Rahul Verma,Data Structures,39,49,27,79.6,Medium
+21CS011,Rahul Verma,DBMS,46,54,16,85.2,Medium
+21CS011,Rahul Verma,Operating Systems,40,52,30,76.9,High
+21CS011,Rahul Verma,Computer Networks,41,41,24,100.0,Medium
+21CS011,Rahul Verma,Mathematics,47,58,17,81.0,Medium
+21CS011,Rahul Verma,Python Programming,27,32,20,84.4,Medium
+21CS012,Meera Krishnan,Data Structures,32,47,12,68.1,High
+21CS012,Meera Krishnan,DBMS,37,52,30,71.2,High
+21CS012,Meera Krishnan,Operating Systems,21,31,20,67.7,High
+21CS012,Meera Krishnan,Computer Networks,25,32,26,78.1,High
+21CS012,Meera Krishnan,Mathematics,24,37,27,64.9,High
+21CS012,Meera Krishnan,Python Programming,25,34,28,73.5,High
+21CS013,Imran Khan,Data Structures,32,37,16,86.5,Medium
+21CS013,Imran Khan,DBMS,25,33,13,75.8,High
+21CS013,Imran Khan,Operating Systems,40,51,24,78.4,High
+21CS013,Imran Khan,Computer Networks,50,57,11,87.7,Medium
+21CS013,Imran Khan,Mathematics,41,51,11,80.4,Medium
+21CS013,Imran Khan,Python Programming,33,42,20,78.6,Medium
+21CS014,Lakshmi Devi,Data Structures,31,33,24,93.9,Medium
+21CS014,Lakshmi Devi,DBMS,33,34,23,97.1,Medium
+21CS014,Lakshmi Devi,Operating Systems,32,35,12,91.4,Medium
+21CS014,Lakshmi Devi,Computer Networks,43,44,27,97.7,Medium
+21CS014,Lakshmi Devi,Mathematics,33,33,10,100.0,Low
+21CS014,Lakshmi Devi,Python Programming,32,32,17,100.0,Medium
+21CS015,Suresh Babu,Data Structures,27,45,11,60.0,High
+21CS015,Suresh Babu,DBMS,26,35,22,74.3,High
+21CS015,Suresh Babu,Operating Systems,23,30,24,76.7,High
+21CS015,Suresh Babu,Computer Networks,28,39,23,71.8,High
+21CS015,Suresh Babu,Mathematics,47,52,27,90.4,Medium
+21CS015,Suresh Babu,Python Programming,34,51,25,66.7,High
+21CS016,Nandini Rao,Data Structures,28,39,27,71.8,High
+21CS016,Nandini Rao,DBMS,23,31,20,74.2,High
+21CS016,Nandini Rao,Operating Systems,24,31,26,77.4,High
+21CS016,Nandini Rao,Computer Networks,26,35,11,74.3,High
+21CS016,Nandini Rao,Mathematics,36,60,12,60.0,High
+21CS016,Nandini Rao,Python Programming,35,49,12,71.4,High
+21CS017,Yusuf Ali,Data Structures,28,37,28,75.7,High
+21CS017,Yusuf Ali,DBMS,36,37,28,97.3,Medium
+21CS017,Yusuf Ali,Operating Systems,44,49,28,89.8,Medium
+21CS017,Yusuf Ali,Computer Networks,43,48,26,89.6,Medium
+21CS017,Yusuf Ali,Mathematics,37,40,20,92.5,Medium
+21CS017,Yusuf Ali,Python Programming,32,37,18,86.5,Medium
+21CS018,Kavya Pillai,Data Structures,38,51,12,74.5,High
+21CS018,Kavya Pillai,DBMS,22,30,24,73.3,High
+21CS018,Kavya Pillai,Operating Systems,49,49,12,100.0,Low
+21CS018,Kavya Pillai,Computer Networks,37,47,16,78.7,Medium
+21CS018,Kavya Pillai,Mathematics,36,46,12,78.3,Medium
+21CS018,Kavya Pillai,Python Programming,54,58,17,93.1,Medium
+21CS019,Harish Kumar,Data Structures,25,35,19,71.4,High
+21CS019,Harish Kumar,DBMS,40,49,30,81.6,Medium
+21CS019,Harish Kumar,Operating Systems,41,46,19,89.1,Medium
+21CS019,Harish Kumar,Computer Networks,46,59,13,78.0,Medium
+21CS019,Harish Kumar,Mathematics,49,60,13,81.7,Medium
+21CS019,Harish Kumar,Python Programming,40,53,27,75.5,High
+21CS020,Pooja Gupta,Data Structures,25,39,16,64.1,High
+21CS020,Pooja Gupta,DBMS,33,51,30,64.7,High
+21CS020,Pooja Gupta,Operating Systems,40,57,11,70.2,High
+21CS020,Pooja Gupta,Computer Networks,25,32,30,78.1,High
+21CS020,Pooja Gupta,Mathematics,31,43,20,72.1,High
+21CS020,Pooja Gupta,Python Programming,38,54,14,70.4,High
+21CS021,Naveen Raj,Data Structures,34,38,23,89.5,Medium
+21CS021,Naveen Raj,DBMS,43,47,10,91.5,Low
+21CS021,Naveen Raj,Operating Systems,32,33,14,97.0,Medium
+21CS021,Naveen Raj,Computer Networks,44,47,11,93.6,Low
+21CS021,Naveen Raj,Mathematics,46,56,23,82.1,Medium
+21CS021,Naveen Raj,Python Programming,31,34,11,91.2,Medium
+21CS022,Zainab Fatima,Data Structures,53,58,11,91.4,Low
+21CS022,Zainab Fatima,DBMS,40,58,21,69.0,High
+21CS022,Zainab Fatima,Operating Systems,26,36,21,72.2,High
+21CS022,Zainab Fatima,Computer Networks,37,54,27,68.5,High
+21CS022,Zainab Fatima,Mathematics,51,58,14,87.9,Medium
+21CS022,Zainab Fatima,Python Programming,38,59,17,64.4,High
+21CS023,Dinesh Kumar,Data Structures,55,55,10,100.0,Low
+21CS023,Dinesh Kumar,DBMS,29,35,20,82.9,Medium
+21CS023,Dinesh Kumar,Operating Systems,55,55,17,100.0,Low
+21CS023,Dinesh Kumar,Computer Networks,34,38,15,89.5,Medium
+21CS023,Dinesh Kumar,Mathematics,51,55,11,92.7,Low
+21CS023,Dinesh Kumar,Python Programming,51,57,25,89.5,Medium
+21CS024,Shreya Patel,Data Structures,44,56,17,78.6,Medium
+21CS024,Shreya Patel,DBMS,26,37,10,70.3,High
+21CS024,Shreya Patel,Operating Systems,38,51,12,74.5,High
+21CS024,Shreya Patel,Computer Networks,47,60,18,78.3,Medium
+21CS024,Shreya Patel,Mathematics,29,41,27,70.7,High
+21CS024,Shreya Patel,Python Programming,27,40,10,67.5,High
+21CS025,Gokul Krishna,Data Structures,29,38,18,76.3,High
+21CS025,Gokul Krishna,DBMS,26,31,13,83.9,Medium
+21CS025,Gokul Krishna,Operating Systems,30,49,20,61.2,High
+21CS025,Gokul Krishna,Computer Networks,32,43,29,74.4,High
+21CS025,Gokul Krishna,Mathematics,37,46,16,80.4,Medium
+21CS025,Gokul Krishna,Python Programming,30,38,11,78.9,Medium
+21CS026,Ayesha Siddiqui,Data Structures,24,30,16,80.0,Medium
+21CS026,Ayesha Siddiqui,DBMS,36,41,23,87.8,Medium
+21CS026,Ayesha Siddiqui,Operating Systems,32,32,29,100.0,Medium
+21CS026,Ayesha Siddiqui,Computer Networks,34,40,13,85.0,Medium
+21CS026,Ayesha Siddiqui,Mathematics,50,53,23,94.3,Medium
+21CS026,Ayesha Siddiqui,Python Programming,34,40,22,85.0,Medium
+21CS027,Prakash Raj,Data Structures,44,47,22,93.6,Medium
+21CS027,Prakash Raj,DBMS,48,51,15,94.1,Medium
+21CS027,Prakash Raj,Operating Systems,41,49,10,83.7,Medium
+21CS027,Prakash Raj,Computer Networks,34,39,19,87.2,Medium
+21CS027,Prakash Raj,Mathematics,29,36,30,80.6,Medium
+21CS027,Prakash Raj,Python Programming,37,40,24,92.5,Medium
+21CS028,Divya Bharathi,Data Structures,42,51,15,82.4,Medium
+21CS028,Divya Bharathi,DBMS,44,51,12,86.3,Medium
+21CS028,Divya Bharathi,Operating Systems,28,39,20,71.8,High
+21CS028,Divya Bharathi,Computer Networks,26,32,17,81.2,Medium
+21CS028,Divya Bharathi,Mathematics,39,51,14,76.5,High
+21CS028,Divya Bharathi,Python Programming,27,30,11,90.0,Medium
+21CS029,Sanjay Kumar,Data Structures,30,45,24,66.7,High
+21CS029,Sanjay Kumar,DBMS,29,43,30,67.4,High
+21CS029,Sanjay Kumar,Operating Systems,37,48,25,77.1,High
+21CS029,Sanjay Kumar,Computer Networks,35,42,17,83.3,Medium
+21CS029,Sanjay Kumar,Mathematics,25,34,13,73.5,High
+21CS029,Sanjay Kumar,Python Programming,40,54,23,74.1,High
+21CS030,Revathi Sundar,Data Structures,44,55,11,80.0,Medium
+21CS030,Revathi Sundar,DBMS,34,47,17,72.3,High
+21CS030,Revathi Sundar,Operating Systems,45,59,24,76.3,High
+21CS030,Revathi Sundar,Computer Networks,35,51,26,68.6,High
+21CS030,Revathi Sundar,Mathematics,29,47,24,61.7,High
+21CS030,Revathi Sundar,Python Programming,32,49,26,65.3,High
